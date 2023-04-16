@@ -14,7 +14,7 @@ class Portfolio extends Component {
 
                 <div className="container">
                         <a href="https://github.com/Mokgase/RandomiserProgram"><img src={randomiser} width="200" height="200" alt="Randomiser"/><p>Randomiser</p></a>
-                        <a href="https://github.com/Mokgase/JavaScript_Technical_Documentation_Page"><img src={JavaScript_Technical_Documentation_Page} width="200" height="200" alt="JavaScript Technical Documentation Page"/><p>JavaScript-Technical-Documentation-Using-HTML-&-CSS</p></a>
+                        <a href="https://github.com/Mokgase/JavaScript_Technical_Documentation_Page"><img src={JavaScript_Technical_Documentation_Page} width="200" height="200" alt="JavaScript Technical Documentation Page"/><p>JavaScript-Technical-Documentation</p></a>
                         <a href="https://github.com/Mokgase/Blonded_Survey_From"><img src={Blonded} width="200" height="200" alt="Blonded"/><p>Frank Ocean Blonded survey form</p></a>
                 </div>
             </section>
